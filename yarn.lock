@@ -11143,10 +11143,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"xstate@npm:^4.29.0":
-  version: 4.29.0
-  resolution: "xstate@npm:4.29.0"
-  checksum: af4d273632dbab9df91aba1204bf9c28ff2dbed73a23ed16c77e2151702a18030b9187565bdb92f9e95c309b0cffa6d86655d1b36f2e22e8f0a0d193472dea6b
+"xstate@npm:^4.33.2":
+  version: 4.33.2
+  resolution: "xstate@npm:4.33.2"
+  checksum: 6e10bcfe66594b3903d34635f7db34388878ab5314c94aa1ece4def97f605f61f8f70fd4ca00de0fd124b465bf8dd7796661d9fdd29a602e144dd31906ee2e26
   languageName: node
   linkType: hard
 
@@ -11318,6 +11318,6 @@ __metadata:
     source-map-support: ^0.5.21
     typescript: 4.7.4
     winston: ^3.8.1
-    xstate: ^4.29.0
+    xstate: ^4.33.2
   languageName: unknown
   linkType: soft
